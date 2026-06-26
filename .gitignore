@@ -1,0 +1,10 @@
+__pycache__/
+*.spec
+*.exe
+ikun_belly/
+*.log
+*.zip
+build/
+dist/
+!assets/*.ico
+!assets/*.webp
